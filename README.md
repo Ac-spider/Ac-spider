@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ac-spider&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ac-spider&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;hide=typescript" />
 <img height="165" src="https://streak-stats.demolab.com?user=Ac-spider&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
