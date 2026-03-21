@@ -34,9 +34,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,pytorch,electron,git,vscode,linux,github,anaconda&perline=10&theme=dark)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,electron,git,vscode,linux,github,anaconda&amp;perline=10&amp;theme=dark" />
 </div>
 
 ---
