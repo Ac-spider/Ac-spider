@@ -75,14 +75,9 @@
 
 ## 🏅 Stats Badges
 
-<div align="center">
-
-![followers](https://img.shields.io/github/followers/Ac-spider?style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github&label=Followers)
-![stars](https://img.shields.io/github/stars/Ac-spider?style=for-the-badge&color=ffd700&labelColor=1a1b27&logo=github&label=Total%20Stars)
-![repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=70e000&labelColor=1a1b27&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAc-spider)
+[![followers](https://img.shields.io/github/followers/Ac-spider?style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github&label=Followers)](https://github.com/Ac-spider)
+[![stars](https://img.shields.io/github/stars/Ac-spider?style=for-the-badge&color=ffd700&labelColor=1a1b27&logo=github&label=Total%20Stars)](https://github.com/Ac-spider)
 ![joined](https://img.shields.io/badge/GitHub%20Since-2020-orange?style=for-the-badge&labelColor=1a1b27&logo=github)
-
-</div>
 
 ---
 
