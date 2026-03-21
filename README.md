@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=LvxSeraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1&pause=99999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=LvxSeraph)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLMs+from+scratch+%F0%9F%A4%96;Stanford+CS336+%7C+CS224N;SJTU+Undergraduate+%F0%9F%8E%93;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
