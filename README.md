@@ -13,17 +13,19 @@
 
 ---
 
+> *Do not go gentle into that good night.*
+
+---
+
 ## 🧑‍💻 About Me
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Ac-spider&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" />
 
 - 🎓 Undergraduate at **Shanghai Jiao Tong University**
-- 🔭 Currently: **Stanford CS336** — Language Modeling from Scratch
-- 📖 Done: **Stanford CS224N** — NLP with Deep Learning
-- 🛠️ I build tools that make campus life easier
-- 🧠 Interests: **LLM pre-training · NLP · Deep Learning**
-- 📝 Notes on AI: [Ac-spider/Notes](https://github.com/Ac-spider/Notes)
-- 📫 Reach me via GitHub Issues
+- 🤖 Passionate about **Large Language Models**
+- 🏸 Badminton player in spare time
+- ⌨️ Vibe coding enthusiast
+- 🧠 INTJ
 
 <br clear="right"/>
 
