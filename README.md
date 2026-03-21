@@ -1,9 +1,7 @@
-<!-- 顶部波浪动画横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:58a6ff&amp;height=200&amp;section=header&amp;text=LvxSeraph&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=SJTU%20%7C%20AI%20%26%20NLP%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
-
 <div align="center">
 
-<!-- 打字动画 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=LvxSeraph)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLMs+from+scratch+%F0%9F%A4%96;Stanford+CS336+%7C+CS224N;SJTU+Undergraduate+%F0%9F%8E%93;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Moe Counter -->
@@ -104,9 +102,6 @@
 </div>
 
 ---
-
-<!-- 底部波浪 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,100:0d1117&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 <div align="center">
 
