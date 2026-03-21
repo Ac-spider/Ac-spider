@@ -45,6 +45,9 @@
 
 <div align="center">
 
+<a href="https://github.com/Ac-spider/Stanford-CS336-LvxSeraph">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=Stanford-CS336-LvxSeraph&amp;theme=tokyonight&amp;hide_border=true" />
+</a>
 <a href="https://github.com/Ac-spider/captcha-auto-fill">
   <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=captcha-auto-fill&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
@@ -53,9 +56,6 @@
 </a>
 <a href="https://github.com/Ac-spider/cs224n-nlp-assignments">
   <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=cs224n-nlp-assignments&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
-<a href="https://github.com/Ac-spider/Stanford-CS336-LvxSeraph">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=Stanford-CS336-LvxSeraph&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 
 </div>
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ac-spider&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ac-spider&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;custom_title=Top%20Languages&amp;langs_count=8&amp;color_overrides=%7B%22TypeScript%22%3A%2200ff7f%22%7D" />
 <img height="165" src="https://streak-stats.demolab.com?user=Ac-spider&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
