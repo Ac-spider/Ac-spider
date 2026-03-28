@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Moe Counter -->
-<img src="https://count.getloli.com/@Ac-spider?name=Ac-spider&amp;theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="profile counter" />
+<img src="https://count.getloli.com/@Ac-spider?name=Ac-spider&amp;theme=capoo-1&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="profile counter" />
 
 </div>
 
