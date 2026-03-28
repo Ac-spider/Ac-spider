@@ -11,7 +11,7 @@
 
 ---
 
-> *Do not go gentle into that good night.*
+> *Per Aspera Ad Astra*
 
 ---
 
@@ -107,6 +107,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ac-spider?label=Followers&style=social)](https://github.com/Ac-spider)
 &nbsp;
-*"The best way to understand a model is to build one from scratch."*
+*"Do not go gentle into that good night."*
 
 </div>
