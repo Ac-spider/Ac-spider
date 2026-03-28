@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1&pause=99999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=LvxSeraph)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLMs+from+scratch+%F0%9F%A4%96;Stanford+CS336+%7C+CS224N;SJTU+Undergraduate+%F0%9F%8E%93;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Moe Counter -->
 <img src="https://count.getloli.com/@Ac-spider?name=Ac-spider&amp;theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="profile counter" />
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Ac-spider&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" />
+<img align="right" width="470" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ac-spider&theme=tokyonight" />
 
 - 🎓 Undergraduate at **Shanghai Jiao Tong University**
 - 🤖 Passionate about **Large Language Models**
