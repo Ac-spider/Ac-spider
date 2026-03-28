@@ -49,7 +49,7 @@
 <a href="https://github.com/Ac-spider/cs224n-nlp-assignments">
   <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=cs224n-nlp-assignments&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
-<a href="https://github.com/Ac-spider/captcha-auto-fill">
+<a href="https://github.com/Ac-spider/llm-foundry-simulator">
   <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-spider&amp;repo=captcha-auto-fill&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 <a href="https://github.com/Ac-spider/canvas-drop-submit">
